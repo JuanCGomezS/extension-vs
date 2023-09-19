@@ -1,0 +1,32 @@
+{
+  "name": "jc-mi-extension",
+  "displayName": "jc-mi-extension",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension color JC´s",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension color JC´s-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/logo-dark.png",
+  "author": {
+    "name": "Juan Carlos Gomez",
+    "email": "eslost07@gmail.com",
+    "url": "https://juancgomezs.github.io/"
+  },
+  "repository": {
+    "url": "https://github.com/JuanCGomezS/extension-vs.git",
+    "type": "git"
+  },
+  "publisher": "jc-extension"
+}
