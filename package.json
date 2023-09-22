@@ -1,6 +1,6 @@
 {
-  "name": "jc-mi-extension",
-  "displayName": "jc-mi-extension",
+  "name": "jc-extension",
+  "displayName": "jc-extension",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -28,5 +28,5 @@
     "url": "https://github.com/JuanCGomezS/extension-vs.git",
     "type": "git"
   },
-  "publisher": "jc-extension"
+  "publisher": "JCcolors"
 }

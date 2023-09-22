@@ -1,7 +1,7 @@
 {
 	"name": "Extension color JC´s",
 	"colors": {
-		"editor.background": "#070a12",
+		"editor.background": "#24292d",
 		"editor.foreground": "#D4D4D4",
 		"activityBarBadge.background": "#007ACC",
 		"sideBarTitle.foreground": "#BBBBBB"
@@ -25,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#88d3fb"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#c1f8ff"
 			}
 		},
 		{
